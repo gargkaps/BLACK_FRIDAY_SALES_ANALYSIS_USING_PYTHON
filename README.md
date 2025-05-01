@@ -17,6 +17,7 @@ Product_Category_1 : Products belong from Product Category 1,
 Product_Category_2 : Products belong from Product Category 2,
 Product_Category_3 : Products belong from Product Category 3,
 Purchase : Amount spend by Customer
+
 DATASET LINK : https://www.kaggle.com/datasets/sdolezel/black-friday
 
 In this Dataset there are 5,37,577 rows and 12 columns.
